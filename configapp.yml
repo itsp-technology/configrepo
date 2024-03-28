@@ -1,7 +1,6 @@
-spring.application.name=8-RadisDBServer
-server.port = 9090
 
-spring.data.redis.url=redis-15478.c264.ap-south-1-1.ec2.cloud.redislabs.com
+
+spring.data.redis.url="redis-15478.c264.ap-south-1-1.ec2.cloud.redislabs.com"
 spring.data.redis.port=15478
 spring.data.redis.username=default
 spring.data.redis.password=9fdCwod4vPqQJB8WWNoPqo4gDzGowmDk
